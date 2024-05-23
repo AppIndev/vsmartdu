@@ -3,7 +3,7 @@
         "type": "course",
         "title": "Tiếng Việt 3",
         "tag": "lớp 3;tiếng việt 3",
-        "path": "courses\/course-fe782b2c-9316-423b-b7bf-bc098718416f.zip",
+        "path": "https://raw.githubusercontent.com/AppIndev/vsmartedu/master/appdata/courses/fe782b2c-9316-423b-b7bf-bc098718416f.json",
         "timestamp": "1704277219",
         "uid": "22d93414a8de6a57a16654fcaac97ec9",
         "position": "0",
